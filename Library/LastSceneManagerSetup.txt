@@ -1,0 +1,19 @@
+sceneSetups:
+- path: Assets/MainScene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/GoogleVR/Demos/Scenes/HelloVR.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes 1/Aufgabe2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes 1/MainScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes 1/Aufgabe1.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes 1/Gesamtszene.unity
+  isLoaded: 0
+  isActive: 0
